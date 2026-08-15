@@ -13,7 +13,7 @@ export default function Footer() {
     <footer style={{ background: 'var(--bg-secondary)', borderTop: '1px solid var(--border-glass)', padding: '3rem 0 2rem', position: 'relative', zIndex: 2 }}>
       <div className="container">
         <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', justifyContent: 'space-between', gap: '1.5rem', marginBottom: '2rem', paddingBottom: '2rem', borderBottom: '1px solid var(--border-glass)' }}>
-          
+
           {/* Logo & Tagline */}
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.8rem' }}>
             <div
@@ -32,9 +32,9 @@ export default function Footer() {
             </div>
             <div>
               <span style={{ fontWeight: 800, fontSize: '1.1rem', color: 'var(--text-primary)', fontFamily: 'var(--font-mono)' }}>
-                Shashank<span className="gradient-text">.dev</span>
+                Shashank<span className="gradient-text"> Suthrave</span>
               </span>
-              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>AI/ML Engineer & Researcher</p>
+              <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>AI/ML Engineer</p>
             </div>
           </div>
 
