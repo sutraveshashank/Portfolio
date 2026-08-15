@@ -230,12 +230,6 @@ export const portfolioData = {
       issuer: "Tata Group (TCS)",
       date: "2024",
       badge: "Empowering Business Insights"
-    },
-    {
-      title: "Emerging Technologies in AI, ML & SAP Analytics",
-      issuer: "Advanced Emerging Tech Program",
-      date: "2024",
-      badge: "AI & SAP Analytics"
     }
   ]
 };
