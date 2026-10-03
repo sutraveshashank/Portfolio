@@ -16,7 +16,7 @@ export const portfolioData = {
     },
     metrics: [
       { label: "Research Model Accuracy", value: "99.4%", description: "Railway Threat Detection" },
-      { label: "B.Tech CGPA", value: "8.0", description: "CSE - AIML Specialization" },
+      { label: "B.Tech CGPA", value: "7.9", description: "CSE - AIML Specialization" },
       { label: "Projects Completed", value: "6+", description: "AI, ML & Full-Stack Apps" },
       { label: "Audio Model Accuracy", value: "95%", description: "MFCC & FFT Analysis" }
     ],
@@ -199,7 +199,7 @@ export const portfolioData = {
       institution: "Kommuri Pratap Reddy Institute of Technology (KPRIT)",
       period: "Aug 2023 – Jun 2026",
       location: "Hyderabad, India",
-      grade: "CGPA: 8.0 / 10.0",
+      grade: "CGPA: 7.9 / 10.0",
       details: "Specializing in Artificial Intelligence and Machine Learning. Relevant coursework: Python, C, SQL, Data Structures & Algorithms, Java, Operating Systems, Machine Learning, Deep Learning, Natural Language Processing."
     },
     {

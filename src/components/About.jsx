@@ -36,7 +36,7 @@ export default function About() {
             Engineering Interpretable & <span className="gradient-text">Scalable AI Systems</span>
           </h2>
           <p className="section-subtitle">
-            Computer Science undergraduate at Kommuri Pratap Reddy Institute of Technology (CGPA 8.0) combining deep ML research with practical full-stack software development.
+            Computer Science undergraduate at Kommuri Pratap Reddy Institute of Technology (CGPA 7.9) combining deep ML research with practical full-stack software development.
           </p>
         </div>
 
