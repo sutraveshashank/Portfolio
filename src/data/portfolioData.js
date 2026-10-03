@@ -4,7 +4,7 @@ export const portfolioData = {
     shortName: "SS",
     title: "AI/ML Engineer & Explainable AI Researcher",
     tagline: "Building interpretable ML systems, agentic AI workflows, and scalable backend applications.",
-    bio: "I am a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning at Kommuri Pratap Reddy Institute of Technology (CGPA 8.0). I build machine learning systems that explain their own decisions instead of acting as black boxes. My published research achieves 99.4% accuracy in railway threat classification using SBERT and interpretable RuleFit models. I also engineer multi-agent systems using LangGraph & RAG alongside full-stack backend solutions.",
+    bio: "I am a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning at Kommuri Pratap Reddy Institute of Technology (CGPA 7.9). I build machine learning systems that explain their own decisions instead of acting as black boxes. My published research achieves 99.4% accuracy in railway threat classification using SBERT and interpretable RuleFit models. I also engineer multi-agent systems using LangGraph & RAG alongside full-stack backend solutions.",
     location: "Hyderabad, India",
     email: "sutraveshashank@gmail.com",
     phone: "+91 9550200833",
